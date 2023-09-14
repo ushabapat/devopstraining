@@ -1,1 +1,1 @@
-This file is used for merging.
+This file is used for merging from developer A
